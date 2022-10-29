@@ -24,6 +24,6 @@ From there you can dump its offsets with `cargo run --release -- "r5apex.bin" in
 The script will analyze the dumped binary and extract its offsets. Use these offsets to update the cheat. <p>
 You can get human readable output without offsets with `cargo run --release -- "r5apex.exe" human > stdout.md`.
 ## Raw
-https://cdn.githubraw.com/AtomBottle/Apex-Legnds-Offsets-/main/stdout.ini
+[CDN](https://cdn.githubraw.com/AtomBottle/Apex-Legends-Offsets/main/stdout.ini)
 <h1>Enjoy!
   
