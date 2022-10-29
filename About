@@ -1,0 +1,34 @@
+Thank to https://github.com/CasualX/apexbot
+
+Usually , I will update the offsets on weekends
+
+If you need the latest offsets
+
+A simple Guide
+  Ⅰ
+    install rust from https://www.rust-lang.org/tools/install 
+    reboot
+    Try to build new solutions and create a new project in vscode
+  Ⅱ
+    put the "stdafx.cpp" (from https://github.com/CasualX/apexbot)  to the new project
+    and compile 
+  Ⅲ
+    1.Locate the folder .C:\Program Files (x86)\Origin Games\Apex
+    2.Rename to something else, eg. .EasyAntiCheat_launcher.exeEasyAntiCheat_launcher.exe.bak
+    3.Rename to and launch it.r5apex.exeEasyAntiCheat_launcher.exe
+    4.To restore functionality simply undo the previous steps.
+
+    Then start the game
+    wait for the r5apex.bin .
+    it will be in /Your Project/r5apex.bin
+    
+    put the file to \apexbot-master\offsets
+    run "cargo run --release -- "r5apex.bin" ini > stdout.ini" for .int file
+        "cargo run --release -- "r5apex.exe" human > stdout.md" for .md file
+    wait a second and the .ini file will be in \apexbot-master\offsets\
+    ![image](https://user-images.githubusercontent.com/84610772/198819537-3e86851b-858d-44c8-b4fe-ac2c281a79ff.png)
+    
+raw : https://cdn.githubraw.com/AtomBottle/Apex-Legnds-Offsets-/main/stdout.ini
+
+Enjoy!
+     
