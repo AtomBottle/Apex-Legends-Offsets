@@ -3,7 +3,7 @@ By https://github.com/CasualX/apexbot
 
 ## About 
 #### Last update time `2022-10-29` & Game Version `v3.0.15.37`
-i usually update on weekends so i will write a simple guide about ir
+i usually update on weekends so i will write a simple guide about it
 
 ## Guide
 ### First of all
@@ -13,7 +13,7 @@ Then clone or download  https://github.com/CasualX/apexbot
 ### Compile
 For Example i use VisualStudio<p>
 1.Creat a new project.Then,put src/stdafx.cpp into it<p>
-2.After that,add src/ to inclue floder<p>
+2.After that,add src/ to inclued directories<p>
 3.complie
 ### Dump apex legends from memory  
 Follow https://github.com/CasualX/apexbot to bypass EasyAntiCheat&Start the game<p>
