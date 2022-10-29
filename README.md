@@ -3,7 +3,7 @@ By https://github.com/CasualX/apexbot
 
 ## About 
 #### Last update time `2022-10-29` & Game Version `v3.0.15.37`
-i usually update on weekends so i will write a simple guide about it
+i usually update on weekends so i wrote a simple guide about it
 
 ## Guide
 ### First of all
